@@ -1,0 +1,9 @@
+{
+	"name" : "Google Newspaper",
+	"description" : "NewsPaper generated from Google News",
+	"created" : "3/3/2021",
+	"completed" : "true",
+	"modules" : ["datetime", "webbrowser", "requests", "BeautifulSoup", "random"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "GO-03032021-152151"
+}
